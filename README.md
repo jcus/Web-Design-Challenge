@@ -1,6 +1,4 @@
-<<<<<<< HEAD
-# Web Design - Web Visualization Dashboard (Latitude)
-=======
+
 # Web Design  - Web Visualization Dashboard (Latitude)
 >>>>>>> 5692ff3ccf4492eea720da3a19fd1af5d14a1c77
 
